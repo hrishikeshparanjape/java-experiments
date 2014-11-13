@@ -1,4 +1,4 @@
-package com.nim.rishi.singleton;
+package com.rishi.singleton;
 
 public class SingletonExperiment {
 	private static SingletonExperiment singletonExperiment;

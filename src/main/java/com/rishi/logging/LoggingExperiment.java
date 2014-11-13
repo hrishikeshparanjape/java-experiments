@@ -1,4 +1,4 @@
-package com.nim.rishi.logging;
+package com.rishi.logging;
 
 import org.apache.log4j.PropertyConfigurator;
 import org.slf4j.LoggerFactory;

@@ -1,7 +1,9 @@
-package com.nim.rishi.singleton;
+package com.rishi.singleton;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.rishi.singleton.SingletonExperiment;
 
 public class SingletonExperimentTest {
 	

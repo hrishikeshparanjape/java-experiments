@@ -1,7 +1,7 @@
-package com.nim.rishi.logging;
+package com.rishi.logging;
 import org.junit.*;
 
-import com.nim.rishi.logging.LoggingExperiment;
+import com.rishi.logging.LoggingExperiment;
 
 
 /**
